@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: duochirou
-baseurl: /StrayBirds
+baseurl: /blogtest
 markdown: redcarpet
 safe: false
 highlighter: pygments
